@@ -1,5 +1,5 @@
 def Song  
   
-  attr_accessor :song 
+  attr_accessor :title
   
 end 
